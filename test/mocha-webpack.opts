@@ -1,0 +1,2 @@
+--webpack-config webpack/test.config.js
+--require jsdom-global/register
